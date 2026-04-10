@@ -102,6 +102,7 @@ Navigation
   border: 6px ridge #DAA520;
   padding: 5px;
   box-sizing: border-box;
+  overflow-x: auto;
 }
 /*
 Body
